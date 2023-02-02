@@ -1,0 +1,19 @@
+.fix {
+    height: 0px;
+    margin: 522px 0;
+    align-items: center;
+    width: 30%;
+    left:750px;
+    position: relative;
+    bottom: 360px;
+    }
+
+    .fix1 {
+        height: 80px;
+        margin: 500px 0;
+        display: flex;
+        align-items: center;
+        width: 30%;
+        left:800px;
+        }
+    
